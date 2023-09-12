@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="main">
+      <div class="filter-container">
+        <button class="btnSort" id="minToMax">Prix croissant</button>
+        <button class="btnSort" id="maxToMin">Prix décroissant</button>
+        <button class="btnSort" id="alpha">Tri Alphabétique</button>
+      </div>
+      <div class="choice">
+        <div class="inputlabel">
+          <input type="radio" class="radio" id="all" name="choice" />
+          <label for="choice">All</label>
+        </div>
+        <div class="inputlabel">
+          <input type="radio" class="radio" id="entree" name="choice" />
+          <label for="choice">Entree</label>
+        </div>
+        <div class="inputlabel">
+          <input type="radio" class="radio" id="plat" name="choice" />
+          <label for="choice">Plat</label>
+        </div>
+        <div class="inputlabel">
+          <input type="radio" class="radio" id="dessert" name="choice" />
+          <label for="choice">Dessert</label>
+        </div>
+      </div>
+      <div class="dish-container"></div>
+    </div>
+    <div class="popup"></div>
+
+    <script src="./script.js"></script>
+    <script src="./basket.js"></script>
+  </body>
+</html>

@@ -1,0 +1,165 @@
+[
+    {
+        "id":"1",
+        "name":"Burning FatMan",
+        "type":"Plat",
+        "price":18,
+        "info":"",
+        "picmini":"./assets/dishMini/1.jpg",
+        "pic":"./assets/dish/1.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Brain Ice",
+        "type":"Dessert",
+        "price":8,
+        "info":"",
+        "picmini":"./assets/dishMini/2.jpg",
+        "pic":"./assets/dish/2.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Republicain Cake",
+        "type":"Dessert",
+        "price":9,
+        "info":"",
+        "picmini":"./assets/dishMini/3.jpg",
+        "pic":"./assets/dish/3.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Big Bowl",
+        "type":"Plat",
+        "price":11,
+        "info":"",
+        "picmini":"./assets/dishMini/4.jpg",
+        "pic":"./assets/dish/4.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Crispy Skull",
+        "type":"Entree",
+        "price":11,
+        "info":"",
+        "picmini":"./assets/dishMini/5.jpg",
+        "pic":"./assets/dish/5.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Parisian Baguette",
+        "type":"Entree",
+        "price":10,
+        "info":"",
+        "picmini":"./assets/dishMini/6.jpg",
+        "pic":"./assets/dish/6.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Hot Pot",
+        "type":"Plat",
+        "price":15,
+        "info":"",
+        "picmini":"./assets/dishMini/7.jpg",
+        "pic":"./assets/dish/7.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Exotic Jelly",
+        "type":"Dessert",
+        "price":10,
+        "info":"",
+        "picmini":"./assets/dishMini/8.jpg",
+        "pic":"./assets/dish/8.jpg"
+    },
+    {
+        "id":"9",
+        "name":"Head Soup",
+        "type":"Entree",
+        "price":9,
+        "info":"",
+        "picmini":"./assets/dishMini/9.jpg",
+        "pic":"./assets/dish/9.jpg"
+    },
+    {
+        "id":"10",
+        "name":"Janus Sushi",
+        "type":"Entree",
+        "price":11,
+        "info":"",
+        "picmini":"./assets/dishMini/10.jpg",
+        "pic":"./assets/dish/10.jpg"
+    },
+    {
+        "id":"11",
+        "name":"Budha Dumpling",
+        "type":"Entree",
+        "price":12,
+        "info":"",
+        "picmini":"./assets/dishMini/11.jpg",
+        "pic":"./assets/dish/11.jpg"
+    },
+    {
+        "id":"12",
+        "name":"Booby Creamy",
+        "type":"Dessert",
+        "price":12,
+        "info":"",
+        "picmini":"./assets/dishMini/12.jpg",
+        "pic":"./assets/dish/12.jpg"
+    },
+    {
+        "id":"13",
+        "name":"No Name",
+        "type":"Entree",
+        "price":11,
+        "info":"",
+        "picmini":"./assets/dishMini/13.jpg",
+        "pic":"./assets/dish/13.jpg"
+    },
+    {
+        "id":"14",
+        "name":"Screamy Mouth",
+        "type":"Entree",
+        "price":7,
+        "info":"",
+        "picmini":"./assets/dishMini/14.jpg",
+        "pic":"./assets/dish/14.jpg"
+    },
+    {
+        "id":"15",
+        "name":"Porky Burger",
+        "type":"Plat",
+        "price":16,
+        "info":"",
+        "picmini":"./assets/dishMini/15.jpg",
+        "pic":"./assets/dish/15.jpg"
+    },
+    {
+        "id":"16",
+        "name":"Hot Liberty",
+        "type":"Entree",
+        "price":12,
+        "info":"",
+        "picmini":"./assets/dishMini/16.jpg",
+        "pic":"./assets/dish/16.jpg"
+    },
+    {
+        "id":"17",
+        "name":"Eyes Ball",
+        "type":"Entree",
+        "price":9,
+        "info":"",
+        "picmini":"./assets/dishMini/17.jpg",
+        "pic":"./assets/dish/17.jpg"
+    },    
+    {
+    "id":"18",
+    "name":"City Shake",
+    "type":"Dessert",
+    "price":11 ,
+    "info":"",
+    "picmini":"./assets/dishMini/18.jpg",
+    "pic":"./assets/dish/18.jpg"
+    }
+
+]
